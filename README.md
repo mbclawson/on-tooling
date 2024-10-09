@@ -8,10 +8,7 @@ Will most like be just a README but may contain actual eg vsc setting json(?) du
 ### Extentions
 - CSV Rainbow
 
-
 ### Themes
-- You already know its ~~turtles~~ [Popping and Pocking](https://marketplace.visualstudio.com/items?itemName=hedinne.popping-and-locking-vscode) all the way down.
-
-## CSV
+- You already know it's ~~turtles~~ [Popping and Locking](https://marketplace.visualstudio.com/items?itemName=hedinne.popping-and-locking-vscode) all the way down.
 
 ## Other tools
