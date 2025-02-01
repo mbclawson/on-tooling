@@ -30,3 +30,5 @@ Will most like be just a README but may contain actual eg vsc setting json(?) du
     - Still worth in it my opinion to enable this
 
 ## iTerm2
+
+## zsh
